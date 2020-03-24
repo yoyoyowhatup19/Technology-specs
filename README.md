@@ -1,6 +1,9 @@
 <!DOCTYPE html>
 <html>
-  <head><style type="text/css">
+  <head><meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    
+    <style type="text/css">
+    
   </head>
   <body>
   </body>
