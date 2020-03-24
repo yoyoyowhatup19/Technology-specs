@@ -1,2 +1,7 @@
-# Technology-specs
-Specs about all the oldest-latest phones, tablets, laptops, and desktops
+<!DOCTYPE html>
+<html>
+  <head><style type="text/css">
+  </head>
+  <body>
+  </body>
+  </html>
