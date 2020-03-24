@@ -1,10 +1,19 @@
 <!DOCTYPE html>
 <html>
-  <head><meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-    
-    <style type="text/css">
-    
+  <head>
+ <style>
+body {
+  background-color: black;
+  
+}
+
+h1 {
+color: white;
+
+}
+
+</style>
   </head>
-  <body>
+  <body><h1>hi</h1>
   </body>
   </html>
